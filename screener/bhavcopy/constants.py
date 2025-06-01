@@ -1,0 +1,1 @@
+link_bhavcopy = "https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_{dd}{mm}{yyyy}.csv"
