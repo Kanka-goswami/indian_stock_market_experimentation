@@ -1,0 +1,2 @@
+link_bhavcopy = "https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_{dd}{mm}{yyyy}.csv"
+link_nse_indices = "https://www.niftyindices.com/Daily_Snapshot/ind_close_all_{dd}{mm}{yyyy}.csv"
